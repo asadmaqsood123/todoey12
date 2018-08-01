@@ -40,7 +40,6 @@
 		8608737F2110E73B004BDDBE = {
 			isa = PBXGroup;
 			children = (
-				860873A02110E76D004BDDBE /* todoListViewController.swift */,
 				8608738A2110E73B004BDDBE /* todoey1 */,
 				860873892110E73B004BDDBE /* Products */,
 			);
@@ -58,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				8608738B2110E73B004BDDBE /* AppDelegate.swift */,
+				860873A02110E76D004BDDBE /* todoListViewController.swift */,
 				8608738F2110E73B004BDDBE /* Main.storyboard */,
 				860873952110E73C004BDDBE /* Assets.xcassets */,
 				860873972110E73C004BDDBE /* LaunchScreen.storyboard */,
